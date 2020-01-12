@@ -17,6 +17,12 @@
 - [ ] Ascend
 - [ ] Mobile
 
+# Deploy
+
+- Run `yarn build`, the files will be generated into de `build` folder.
+
+- Run `yarn gh-pages -d build`, to deploy it to github pages.
+
 # Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,3 +1,24 @@
+# Cookie clicker
+
+- [x] Cookies
+- [x] Clickers
+- [x] Some stats
+- [ ] Grandmas
+- [ ] BigNum lib
+- [ ] Save progress
+- [ ] Debug options
+- [ ] TS
+- [ ] Hooks
+- [ ] Golden Cookies
+- [ ] Upgrades
+- [ ] More stats
+- [ ] Achievements
+- [ ] Milk
+- [ ] Ascend
+- [ ] Mobile
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
